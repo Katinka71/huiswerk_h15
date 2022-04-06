@@ -1,0 +1,97 @@
+body
+{
+  color: black;
+  background-color: #CCFFFF;
+  font-family: 'Playfair Display', serif;
+  padding: 5px;
+}
+a
+{
+  color: #FFFFFF;
+  background-color: #3366CC;
+  text-decoration: none;
+  padding: 5px;
+  margin-right: 20px;
+  text-align: center;
+}
+a:hover
+{
+  color: black;
+  background-color: #339900;
+}
+h2
+{
+  text-align: center;
+  background-color: #3366CC;
+  margin: 25px 400px;
+  padding: 10px;
+}
+.intro
+{
+text-align: center;
+margin: 10px 150px;
+background-color: #27CCCC;
+padding: 25px;
+}
+#tabelcv
+ {
+   border-collapse: collapse;
+   padding: 10px 5px;
+   margin: 100px 25%;
+   text-align: center;
+   background-color: #27CCCC;
+ }
+td
+{
+  padding: 10px;
+}
+ #per
+ {
+   width: 200px;
+   background-color: #2D6CEB;
+   padding: 10px;
+ }
+ #opl
+ {
+   width: 300px;
+   background-color: #2D6CEB;
+   padding: 10px;
+ }
+ #func
+ {
+   width: 300px;
+   background-color: #2D6CEB;
+   padding: 10px;
+ }
+#vraag
+{
+  text-align: center;
+}
+#tabelcontact
+{
+  border-collapse: collapse;
+  padding: 10px 5px;
+  margin: 10px 25%;
+}
+textarea
+{
+  width: 400px;
+  height: 100px;
+}
+input[type="text"],input[type="email"],input[type="tel"], textarea, button
+{
+  background-color: #27CCCC;
+}
+button:hover
+{
+  color: white;
+  background-color: #3366CC;
+  font-size: thick;
+}
+.voet
+{
+  text-align: center;
+  text-decoration: underline;
+  margin-top: 50px;
+  padding: 5px;
+}
